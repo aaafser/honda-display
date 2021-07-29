@@ -1,0 +1,15 @@
+.honda-head-color{
+    background-color: #264653;
+}
+.button-fill{
+    background-color: #E76F51;
+}
+.img-gray{
+    filter: grayscale(100%);
+}
+.text-fill{
+    color: #E76F51;
+}
+.star-color{
+    color: #E77C40;
+}
